@@ -1,1 +1,1 @@
-its new file to see if i can add it to git hubs
+This directory contains files from my work with Rohan on Python, git and probably linux
